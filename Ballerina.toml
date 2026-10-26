@@ -1,0 +1,3 @@
+[workspace]
+title = "context-engine-mcp-demo"
+packages = ["context_engine_demo"]
